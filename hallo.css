@@ -1,0 +1,84 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Blaka&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Blaka&family=Oswald&display=swap');
+
+
+.hero {
+
+
+background: url(./images/hallo.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+
+
+}
+
+
+h1 {
+
+
+    font-family: 'Blaka', cursive;
+
+
+}
+
+h3 {
+
+
+    font-family: 'Oswald', sans-serif
+}
+
+
+
+#iconssec {
+
+ background: linear-gradient(0.25turn, #22d3ee, #1d4ed8, #fff);;
+ border-radius: 15px;
+ border-top-left-radius:15px;
+
+}
+
+
+#form {
+
+background: #06b6d4;
+
+
+
+
+}
+
+
+#frm1{
+
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+     border-radius: 20px;
+
+
+
+
+}
+
+#frm2 {
+
+
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+     border-radius: 20px;
+    
+
+}
+
+
+#frm3 {
+
+
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+     border-radius: 20px;
+
+}
+
+
